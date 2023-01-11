@@ -1,18 +1,18 @@
 let cardcontainer = document.getElementById("cardContainer")
 let ihtml = "";
 let arr = [
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/01_one.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/02_two.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/03_three.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/04_four.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/05_five.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/06_six.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/07_seven.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/08_eight.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/09_nine.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/10_ten.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/11_eleven.jpg",
-    "/06_Upcoming Coding contests using fetch api/images/heading_images/12_twelve.jpg",
+    "/CodeTest/images/heading_images/01_one.jpg",
+    "/CodeTest/images/heading_images/02_two.jpg",
+    "/CodeTest/images/heading_images/03_three.jpg",
+    "/CodeTest/images/heading_images/04_four.jpg",
+    "/CodeTest/images/heading_images/05_five.jpg",
+    "/CodeTest/images/heading_images/06_six.jpg",
+    "/CodeTest/images/heading_images/07_seven.jpg",
+    "/CodeTest/images/heading_images/08_eight.jpg",
+    "/CodeTest/images/heading_images/09_nine.jpg",
+    "/CodeTest/images/heading_images/10_ten.jpg",
+    "/CodeTest/images/heading_images/11_eleven.jpg",
+    "/CodeTest/images/heading_images/12_twelve.jpg",
 ]
 
 

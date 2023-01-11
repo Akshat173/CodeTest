@@ -1,0 +1,26 @@
+#card{
+    display: flex;
+    justify-content: center;
+}
+#cardContainer{
+    min-width: 90vw;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 25px;
+}
+.card-body{
+    border: 1px solid rgb(53, 51, 51);
+    border-radius: 6px;
+    margin: 0px 1rem;
+}
+.card-title{
+    height: 17%;
+}
+.btn-customize{
+    background-color: #0064B3 !important;
+    border-color: #0064B3 !important;
+    color: white !important;
+}
+.card-img-top{
+    height: 10rem;
+}
